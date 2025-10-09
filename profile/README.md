@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Famiglio's logo" src="../images/logo-ext-cmprd.png" width="120" />
+  <img alt="Famiglio's logo" src="../images/logo-ext-cmprd.png" />
 </p>
 
 <p align="center">
