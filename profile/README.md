@@ -2,10 +2,9 @@
   <img alt="Famiglio's logo" src="../images/logo-ext-cmprd.png" />
 </p>
 
-<p align="center">
-  <strong>famiglio</strong><br />
-  A loyal familiar watching over your code, silently weaving automation into your repositories.
-</p>
+<h3 align="center">
+  <strong>A loyal familiar watching over your code, silently weaving automation into your repositories.</strong>
+</h3>
 
 ---
 
